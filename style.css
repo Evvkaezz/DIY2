@@ -211,7 +211,7 @@ button {
 }
 .question-answer{
     font-family: "Lobster", sans-serif;
-    background-image: url(images/sea.png);
+    background-image: url(images/wave1.jpg);
     background-position: bottom;
     background-size: cover;
     height: 80vh;
@@ -279,7 +279,7 @@ textarea::placeholder{
     color: rgba(255, 255, 255, 1);
 }
 footer{
-    background-image: url(images/strong_wave.png);
+    background-image: url(images/strong_wave1.png);
     background-size: cover;
     height: 400px;
     color: rgba(166, 216, 255, 1);
